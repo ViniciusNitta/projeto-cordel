@@ -31,12 +31,12 @@ header p {
 
 
 main article {
-    padding: 10vh 5vh;
+    padding: 10vh 5vw;
 }
 main article pre {
     font-family: 'Sriracha',sans-serif;
     font-size: 3.5vw;
-    line-height: 7vw;
+    line-height: 7vh;
 }
 main #img01 {
     background: black url(imagens/background001.jpg) right center no-repeat fixed;
