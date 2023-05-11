@@ -52,7 +52,7 @@ main .textespecial {
     background-color: rgba(0, 0, 0, 0.405);
     color: white;
     width: 48%;
-    padding: 2vh;
+    padding: 2vh 2vw;
 }
 
 
@@ -61,5 +61,5 @@ footer {
     color: white;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding: 3vh;
+    padding: 3vh 2 vw;
 }
